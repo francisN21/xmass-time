@@ -7,6 +7,6 @@ Test
 ```
 New
 ```
-
+Regular text
 
 ###
